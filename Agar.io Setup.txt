@@ -1,0 +1,12 @@
+Uninstaller	32,593	61%
+Agar.io Libs\msvcr120.dll	489,617	50%
+Agar.io Libs\msvcp120.dll	158,988	66%
+Agar.io Libs\Browser Plugin.dll	54,949	63%
+Agar.io Libs\RBGUIFramework.dll	714,267	61%
+Agar.io.exe	653,682	77%
+
+Result :
+    Number of files: 6
+    Total uncompressed size: 6256936 bytes
+    Total compressed size: 2104096 bytes
+    Install program size: 2198363 bytes
